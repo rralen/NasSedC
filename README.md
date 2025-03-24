@@ -21,7 +21,7 @@ El servidor ESP32 ofrece las siguientes capacidades:
 
 ## Política de Privacidad
 
-La aplicación NasSed no recopila, almacena ni comparte información personal. Para más detalles sobre cómo manejamos la información, consulta nuestra [Política de Privacidad](https://tu-url-de-politica-de-privacidad).
+La aplicación NasSed no recopila, almacena ni comparte información personal. Para más detalles sobre cómo manejamos la información, consulta nuestra [Política de Privacidad](https://github.com/rralen/NasSedC/blob/main/Pol_Privacidad.md).
 
 ## Enlace a la Aplicación
 
